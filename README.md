@@ -78,6 +78,7 @@ link: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-
 link: https://www.bbc.com/mundo/articles/c4nlml234m6o 
 
 * Corrector SoftCatalà [en línia] [consulta: 19 de desembre de 2024]. link: https://www.softcatala.org/corrector/
+* Corrector LanguageTool [consulta: 20 de desembre de 2024]. link:https://languagetool.org/es
 
  ## <h2 align="center">Llicència</h2>
  Aquest projecte està publicat sota la llicència Creative Commons Attribution 4.0 International (CC BY 4.0).
